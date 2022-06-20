@@ -3,9 +3,9 @@ import "./index.css";
 function App() {
   return (
     <div className="App">
-      <ForwardRef />
-      {/* <UseImperative />
-      <UseRef /> */}
+      {/* <ForwardRef /> */}
+      {/* <UseImperative /> */}
+      <UseRef />
     </div>
   );
 }
