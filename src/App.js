@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="App">
       {/* <ForwardRef /> */}
-      {/* <UseImperative /> */}
-      <UseRef />
+      <UseImperative />
+      {/* <UseRef /> */}
     </div>
   );
 }
